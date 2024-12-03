@@ -1,2 +1,2 @@
-# Cython_Demo
-Cython Demo code for MATH 608 project
+# cython_demo
+Cython demo code for MATH 608 project
