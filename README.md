@@ -7,7 +7,7 @@ Before running the code, ensure that the Cython compiler is installed on your ma
 
 ## Steps to Follow
 
-1. **Build the Cython Extension Module**
+1. **Build the Extension Module**
    - For **macOS/Linux** users:  
      ```bash
      python setup.py build_ext --inplace -i
