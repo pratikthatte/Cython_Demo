@@ -4,8 +4,8 @@ import numpy as np
 from cosine_similarity_python import cosine_similarity_numpy
 from cosine_similarity_cython import cosine_similarity_cython
 def generate_test_data():
-    return np.array(np.random.rand(1000000))
-reps = 10
+    return np.array(np.random.rand(100000))
+reps = 1000
 if __name__ == "__main__":
     test_data_1 = generate_test_data()
     test_data_2 = generate_test_data()
