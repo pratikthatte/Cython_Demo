@@ -18,7 +18,7 @@ Before running the code, ensure that the Cython compiler is installed on your ma
      ```
 
 2. **Test the Runtime Performance**  
-   Run the script to test runtimes using the following command:  
+   Run the script to test the runtimes using the following command:  
    ```bash
    python test_runtime.py
 
